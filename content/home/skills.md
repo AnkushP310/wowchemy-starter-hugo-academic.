@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 80%
-  icon: c#
+  icon: laptop-code
   icon_pack: fab
   name: c#
 - description: 70%
-  icon: chart-line
+  icon: network-wired
   icon_pack: fas
   name: Web-apps
 - description: 10%
