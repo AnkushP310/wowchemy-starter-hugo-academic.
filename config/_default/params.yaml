@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: true
-font: ''
+font: mr robot
 font_size: L
 
 # SEO
